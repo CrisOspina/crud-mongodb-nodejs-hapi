@@ -1,0 +1,15 @@
+{
+  "name": "crud-mongo-hapijs",
+  "version": "1.0.0",
+  "description": "crud-mongodb-hapiJS",
+  "main": "start.js",
+  "scripts": {
+    "start": "nodemon ./src/start.js"
+  },
+  "author": "CrisOspina",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "mongoose": "^5.7.4"
+  }
+}
